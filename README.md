@@ -12,9 +12,13 @@ This is a node application that runs basic SQL commands on a database.
 ```password=YOUR_PASSWORD_HERE```
 
    Or you can edit the password in the js files.
+   
 5. To run the app either enter
 
   ```node bamazonCustomer.js```
+  
   or
+  
   ```node bamazonManager.js```
+  
 6. The command line prompts will give you further instructions.

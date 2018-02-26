@@ -11,7 +11,7 @@ This is a node application that runs basic SQL commands on a database.
 
 ```password=YOUR_PASSWORD_HERE```
 
-   Or you can edit the password in the js files.
+   Or you can edit the password in the js files (line 18).
    
 5. To run the app either enter
 
